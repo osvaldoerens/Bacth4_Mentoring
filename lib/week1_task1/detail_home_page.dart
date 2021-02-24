@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:mentoring_batch4/week1_task1/screens/home_page.dart';
-import 'package:mentoring_batch4/week1_task1/response_detail_page.dart';
+import 'package:mentoring_batch4/week1_task1/home_page.dart';
+import 'package:mentoring_batch4/task_page.dart';
 
 class DetailHome extends StatefulWidget {
 

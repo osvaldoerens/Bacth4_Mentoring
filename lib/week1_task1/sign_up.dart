@@ -1,13 +1,13 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:mentoring_batch4/week1_task1/screens/home_page.dart';
+import 'package:mentoring_batch4/week1_task1/home_page.dart';
 
-class LoginPage extends StatefulWidget {
+class SignUpPage extends StatefulWidget {
   @override
   _State createState() => _State();
 }
 
-class _State extends State<LoginPage> {
+class _State extends State<SignUpPage> {
 
   final titleController = TextEditingController();
   final descriptionController = TextEditingController();

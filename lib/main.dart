@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mentoring_batch4/week1_task1/response_detail_page.dart';
-import 'package:mentoring_batch4/week1_task1/screens/login_page.dart';
+import 'package:mentoring_batch4/task_page.dart';
+import 'package:mentoring_batch4/week1_task1/sign_up.dart';
 
 void main() {
   runApp(MyApp());
